@@ -1,0 +1,199 @@
+@media screen and (max-width:1400px){
+
+    .navigation{
+   display: none;
+}
+.nav-bar{
+    margin-left:0px;
+    position: relative;
+    left: 10px;
+   position: fixed;
+    width: 95vw;
+}
+.all-section{
+width: 100vw;
+display: flex;
+height: 150vh;
+
+}
+
+.navs{
+    
+    margin-left: 10px;
+    margin-right:0;
+    width: 90vw;
+    left:10px
+    
+}
+.artists{
+ 
+    width: 100vw;
+}
+.acc{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 0;
+    width: 40vw;
+}
+.button1{
+    margin-right: 0;
+    width:100px;
+   font-size: 0.9rem;
+   margin-top: 0px;
+    
+}
+.button2{
+    margin-right: 10px;
+    
+    width:80px;
+   font-size: 0.9rem;
+   height: 40px
+    
+}
+.button1 span{
+    width: 1rem;
+    height: 2rem;
+    margin-right: 0;
+}
+.back-color{
+  position: absolute;
+  left: 10px;
+    width:95vw;
+    height: 150vh;
+
+}
+.arrows{
+margin-left: 0px;
+
+
+}
+.all-section{
+    width: 100vw;
+}
+.nav-color{
+position: relative;
+position: fixed;
+    height: 50px;
+}
+
+
+/* artists */
+
+.artists{
+    width: 100vw;
+   height: 150vw;
+   margin-top: 100px;
+
+
+}
+.album
+{
+    width:90vw;
+
+}
+ 
+
+
+.artists:first-child{
+    display: none;
+}
+.artists:nth-child(4){
+    display: none;
+}
+.artists:nth-child(6){
+    display: none;
+}
+.artist-img:nth-child(5){
+    display: none;
+}
+.artist-img img{
+margin-top: 0px;
+margin-left: 0px;
+height:100%;
+width: 90px;
+
+}
+.artist-img{
+    height: 100px;
+margin-top: 20px;
+
+
+
+    
+}
+.details{
+    
+    margin: 10px;
+    height:100px;
+}
+
+.foff{
+    display: none;
+}
+.footer{
+    width: 90vw;
+    position: relative;
+  right:0;
+  height: 100px;
+  width: 90vw;
+  font-size: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sec-2{
+    margin-top: 150px;
+    height: 100px;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+  }
+  .sec-2 i{
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  background-color: rgb(44, 44, 44);
+  height: 20px;
+  width:20px;
+  border-radius: 500px;
+  color: white;
+
+}
+.line{
+   top: 130px;
+}
+.copyright{
+    font-size: 0.5rem;
+}
+.partation{
+    margin-left: 0px;
+    margin-right:0;
+    width: 90vw;
+    left:0px;
+  margin-top:0px
+}
+.fxit{
+width: 100px;
+height: 100px; 
+position: relative;
+bottom:100px;
+right:10px;
+}
+.fxit img{
+   
+
+    width: 100px;
+    height: 100px;
+    margin-left: 0;
+    }
+    .fxit details{
+   
+
+        width: 100px;
+        height: 50px;
+        }
+}
